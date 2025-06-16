@@ -1,1 +1,5 @@
 # Car-Price-Prediction-Analysis
+# About the domian : 
+Data science is a field that uses concepts of statistics and programming ,  algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data , insights from data across a broad range of application domains which will further help corporates to gain more business. And there comes the concept of Business Analytics . It is a set of disciplines and technologies for solving business problems using data analysis, statistical models and other quantitative methods. 
+# Objective : 
+Data science helps businesses to get insights and trends from collected data and using those insights and analysis, customers can easily get an idea about the ongoing market price and trends. We choose this project because there are few car dealers or brokers who manipulate the market for their own profit and scam the buyers. So our team thought about making a car price prediction analysis to give a clear picture , what are the driving features that can affect the car price and how are those features affecting the price. 
